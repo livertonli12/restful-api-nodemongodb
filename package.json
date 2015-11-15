@@ -1,0 +1,15 @@
+{
+  "name": "restful-api-nodemongo",
+  "version": "1.0.0",
+  "description": "API REST com Node.JS e MongoDB",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Líverton Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "kerberos": "0.0.17",
+    "mongoose": "^4.2.5"
+  }
+}
